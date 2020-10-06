@@ -1,0 +1,47 @@
+.draggable {
+  background-color: green;
+  width: 100px;
+  border: solid black 1px;
+  margin-right: 10px;
+  text-align: center;
+  z-index: 10;
+}
+
+li {
+  background-color: red;
+  width: 100px;
+  border: solid black 1px;
+  margin-right: 10px;
+  text-align: center;
+  list-style: none;
+}
+
+ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+}
+
+#box1 {
+  position: absolute;
+  top: 500px;
+  left: 0px;
+}
+
+#box2 {
+  position: absolute;
+  top: 500px;
+  left: 300px;
+}
+
+#box3 {
+  position: absolute;
+  top: 500px;
+  left: 600px;
+}
+/*# sourceMappingURL=style.css.map */
