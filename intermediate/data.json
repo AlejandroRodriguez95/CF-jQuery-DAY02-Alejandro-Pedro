@@ -1,0 +1,44 @@
+var images = `[
+    {
+        "name": "Fran",
+        "relation": "sister",
+        "image": "img/sister.jpg",
+        "information": "Lorem ipsum dolor sit amet."
+    },
+    {
+        "name": "Bill",
+        "relation": "father",
+        "image": "img/dad.jpg",
+        "information": "Lorem ipsum dolor sit amet consectetur adipisicing."
+    },
+    {
+        "name": "Nick",
+        "relation": "brother",
+        "image": "img/brother.jpg",
+        "information": "Ipsum dolor sit amet consectetur adipisicing."
+    },
+    {
+        "name": "dog",
+        "relation": "dog",
+        "image": "img/dog.jpg",
+        "information": "Random text and information"
+    },
+    {
+        "name": "sister2",
+        "relation": "sister",
+        "image": "img/sister2.jpg",
+        "information": "blablablalbalba blabla blablaba"
+    },
+    {
+        "name": "nameofgrandpa",
+        "relation": "grandpa",
+        "image": "img/granpa.jpg",
+        "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "name": "Fritza",
+        "relation": "mom",
+        "image": "img/mom.jpg",
+        "information": "Lorem consectetur adipisicing elit."
+    }
+]`;
